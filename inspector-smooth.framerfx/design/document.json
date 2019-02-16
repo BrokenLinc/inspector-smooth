@@ -89,6 +89,15 @@
                   "type" : "unstyled"
                 }
               ],
+              "cached" : {
+                "html" : "<div class='DraftEditor-alignCenter'><div data-offset-key=\"a90k1-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"a90k1-0-0\" style=\"tab-size:4;font-weight:700;font-family:&quot;Futura-Bold&quot;, &quot;Futura&quot;, sans-serif;-webkit-text-fill-color:#34f;font-size:32px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Welcome!<\/span><\/span><\/div><\/div>",
+                "os" : "10_14",
+                "size" : {
+                  "height" : 38,
+                  "width" : 170
+                },
+                "width" : 0
+              },
               "entityMap" : {
 
               }
@@ -96,9 +105,7 @@
             "top" : 157,
             "visible" : true,
             "width" : 170,
-            "widthType" : 0,
-            "x" : 188,
-            "y" : 116
+            "widthType" : 0
           },
           {
             "__class" : "FrameNode",
@@ -203,9 +210,7 @@
                 "top" : null,
                 "visible" : true,
                 "width" : 125,
-                "widthType" : 0,
-                "x" : 85,
-                "y" : 25
+                "widthType" : 0
               }
             ],
             "clip" : false,
@@ -215,7 +220,7 @@
             "exportOptions" : [
 
             ],
-            "fillColor" : "rgba(50, 68, 255, 1.00)",
+            "fillColor" : "hsl(316, 100%, 60%)",
             "fillEnabled" : true,
             "fillGradient" : {
               "__class" : "LinearGradient",
@@ -411,16 +416,16 @@
                     }
                   ],
                   "key" : "a90k1",
-                  "text" : "Watch.",
+                  "text" : "Watch!",
                   "type" : "unstyled"
                 }
               ],
               "cached" : {
-                "html" : "<div class='DraftEditor-alignCenter'><div data-offset-key=\"a90k1-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"a90k1-0-0\" style=\"tab-size:4;font-weight:700;font-family:&quot;Futura-Bold&quot;, &quot;Futura&quot;, sans-serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:32px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Watch.<\/span><\/span><\/div><\/div>",
+                "html" : "<div class='DraftEditor-alignCenter'><div data-offset-key=\"a90k1-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"a90k1-0-0\" style=\"tab-size:4;font-weight:700;font-family:&quot;Futura-Bold&quot;, &quot;Futura&quot;, sans-serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:32px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Watch!<\/span><\/span><\/div><\/div>",
                 "os" : "10_14",
                 "size" : {
                   "height" : 38,
-                  "width" : 120
+                  "width" : 121
                 },
                 "width" : 0
               },
@@ -430,7 +435,7 @@
             },
             "top" : 157,
             "visible" : true,
-            "width" : 120,
+            "width" : 121,
             "widthType" : 0
           },
           {
